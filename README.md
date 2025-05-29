@@ -32,15 +32,13 @@ This repository is my personal learning journey and proof of growth — from zer
 - [ ] Completed Python basics (in progress)
 - [ ] Solved 10+ DSA problems
 - [ ] Built 1 real-world project
-- [ ] Published Resume and LinkedIn portfolio
-
----
+- [ ] Published Resume and LinkedIn portfolio     
 
 # 🔗 Connect With Me
 
 > 🚧 Links coming soon — building in public!
 
-- 👀 **Gmail**: cjraptor22@gmail.com
+- 📬 **Email**: churchil.codes@gmail.com
 - 🌐 **Portfolio**: *Coming soon*
 - 💼 **LinkedIn**: *Coming soon*
 - 📄 **Resume**: *Coming soon*
